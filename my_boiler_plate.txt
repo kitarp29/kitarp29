@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long int
+#define ff(i,a,b) for( ll i=a;i<b;i++)
+#define tc() int t; cin>> t; while (t--)
+#define MOD 1000000007
+#define vec vector<ll>
+#define pb push_back
+
+int main()
+{ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+return 0;}
+//PRATIK_SINGH!!
+// cout<<"time taken : "<<(float)clock()/CLOCKS_PER_SEC<<" secs"<<endl;
+
+// ░█████╗░░░░░░░░░░░░░░░
+// ██╔══██╗░░██╗░░░░██╗░░
+// ██║░░╚═╝██████╗██████╗
+// ██║░░██╗╚═██╔═╝╚═██╔═╝
+// ╚█████╔╝░░╚═╝░░░░╚═╝░░
+// ░╚════╝░░░░░░░░░░░░░░░
