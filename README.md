@@ -1,5 +1,4 @@
  <h1>Hi, I'm Pratik 👋🏾 👩🏾‍💻</h1>
-<img src="https://github.com/kitarp29/kitarp29/blob/master/WhatsApp%20Image%202020-03-17%20at%2012.35.18%20PM%20-%20Copy.jpeg?raw=true"  width="300" height="200">
 I'm a Developer ,who is passionate about making Websites, creating technology to elevate people, and building community. <br>Some technologies I enjoy working with include  NodeJS
 ,JavaScript 
 and MongoDB<br>
