@@ -5,12 +5,6 @@ and MongoDB<br>
 I really love Competetive Programming and enjoy implementing algorithms.
 <br>Solved 500+ questions till now , wrote 1000+ lines of code in C++
 
-  <hr>
-<h3> Find me around the web 🌎:</h3>
-  My Portfolio- <a href="https://kitarp29.github.io/onlineCV/beckham/">Visit</a><br>
-  My Linkedin- <a href="https://www.linkedin.com/in/pratik-singh-b11a67141/">Visit</a><br>
-  My Twitter- <a href ="https://twitter.com/kitarp29">Visit</a><br>
-My competitive Profiles- <a href="https://www.stopstalk.com/user/profile/kitarp">Click Here</a><br>
 <hr>
 Languages and Tools
 <br>
@@ -32,6 +26,12 @@ Languages and Tools
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kitarp29&show_icons=true)
 <br>
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kitarp29)
+ <hr>
+<h3> Find me around the web 🌎:</h3>
+  My Portfolio- <a href="https://kitarp29.github.io/onlineCV/beckham/">Visit</a><br>
+  My Linkedin- <a href="https://www.linkedin.com/in/pratik-singh-b11a67141/">Visit</a><br>
+  My Twitter- <a href ="https://twitter.com/kitarp29">Visit</a><br>
+My competitive Profiles- <a href="https://www.stopstalk.com/user/profile/kitarp">Click Here</a><br>
 <h4>It ain't much but its honest work</h4>
   <hr>
  
