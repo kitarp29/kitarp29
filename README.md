@@ -23,6 +23,8 @@ Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
 <br>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=kitarp29&show_icons=true" width="400">
  <hr>
 <h3> Find me around the web 🌎:</h3>
