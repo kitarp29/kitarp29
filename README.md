@@ -6,7 +6,7 @@ I really love Competetive Programming and enjoy implementing algorithms.
 <br>Solved 500+ questions till now , wrote 1000+ lines of code in C++
 
 <hr>
-Languages and Tools
+<h3>Languages and Tools</h3>
 <br>
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
