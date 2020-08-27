@@ -2,7 +2,7 @@
 I'm a Developer ,who is passionate about making Websites, creating technology to elevate people, and building community. <br>Some technologies I enjoy working with include  NodeJS
 ,JavaScript 
 and MongoDB<br>
-I really love Competetive Programming and enjoy implementing algorithms.
+I really love Competitive Programming and enjoy implementing algorithms.
 <br>Solved 500+ questions till now , wrote 1000+ lines of code in C++
 
 <hr>
