@@ -4,9 +4,7 @@ I'm a Developer ,who is passionate about making Websites, creating technology to
 and MongoDB<br>
 I really love Competitive Programming and enjoy implementing algorithms.
 <br>Solved 500+ questions till now , wrote 1000+ lines of code in C++
-
-<hr>
-<table>
+<table scrolling=no>
  <tr>
   <td><h3>Languages and Tools 💻:</h3>
 <br>
@@ -35,5 +33,4 @@ I really love Competitive Programming and enjoy implementing algorithms.
 ![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=kitarp29)</td>
   <tr>
  </table>
- <hr>
-<h2>It ain't much but its honest work</h2>
+<h2 >It ain't much but its honest work</h2>
