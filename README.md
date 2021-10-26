@@ -13,7 +13,7 @@ I really love Competitive Programming and enjoy implementing algorithms.
 <ul>
  <li> SRE Intern at Juspay</li>
  <li> Linux Foundation Scholar 2021 (Open Source Newbie) </li>
- <li> AWS certified on SysOps and essentials </li>
+ <li> AWS certified on Security, SysOps and Tech essentials </li>
  <li> Winner of Devfolio's Yeah Hackathon</li>
  <li> Google Developer Student Club Leader at DSI </li>
 <table scrolling=no>
