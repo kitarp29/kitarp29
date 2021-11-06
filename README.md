@@ -49,5 +49,4 @@ I really love Competitive Programming and enjoy implementing algorithms.
   <tr>
  </table>
 
-<a href="https://app.daily.dev/kitarp"><img src="https://api.daily.dev/devcards/2e01d591830a4530b4b9d1419e2f2fcf.png?r=0k4" width="400" alt="Pratik Singh's Dev Card"/></a>
 <h2 >It ain't much but its honest work</h2>
