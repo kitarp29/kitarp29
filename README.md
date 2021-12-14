@@ -3,7 +3,7 @@ I'm a Developer ,who is passionate about making Websites, creating technology to
 <br><b>Site Realibilty Engineer Intern at Juspay</b>. Working on different tools of DevOps like Prometheus, Grafana, ELK Stack, etc.
  <br>Some technologies I enjoy working with include  NodeJS
 ,JavaScript 
-and MongoDB<br>
+and MongoDB<br> I am learning Golang as of now.
 I really love Competitive Programming and enjoy implementing algorithms.
 <br>Solved 500+ questions till now , wrote 1000+ lines of code in C++
 
