@@ -11,6 +11,7 @@ I really love Competitive Programming and enjoy implementing algorithms.
 
 <h2> Highlights🌟 </h2>
 <ul>
+<li>Gihtub Extern'21(Winter Cohort) at ChaosNative(LitmusChaos)</li>
  <li> SRE Intern at Juspay</li>
  <li> Linux Foundation Scholar 2021 (Open Source Newbie) </li>
  <li> AWS certified on Security, SysOps and Tech essentials </li>
