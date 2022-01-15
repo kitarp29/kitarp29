@@ -1,9 +1,10 @@
  <h1>Hi, I'm Pratik 👋🏾 👩🏾‍💻</h1>
 I'm a Developer ,who is passionate about making Websites, creating technology to elevate people, and building community.
-<br><b>Site Realibilty Engineer Intern at Juspay</b>. Working on different tools of DevOps like Prometheus, Grafana, ELK Stack, etc.
+<br><b>Site Realibilty Engineer Intern at <a href="juspay.in"><u>Juspay</u></a></b>. Working on different tools of DevOps like Prometheus, Grafana, ELK Stack, etc.
+<br><b><a href="https://externship.github.in/organization/list"><u>Github Extern'21</u></a></b> at <a href="https://www.chaosnative.com/"><u>ChaosNative</u></a></b></b>. Working on <a href="https://litmuschaos.io/"><u>Litmus Chaos</u></a></b> Project, learning to create chaos in cluster.
  <br>Some technologies I enjoy working with include  NodeJS
 ,JavaScript 
-and MongoDB<br> I am learning Golang as of now.
+and MongoDB<br> I am learning Golang and DevOps as of now.
 I really love Competitive Programming and enjoy implementing algorithms.
 <br>Solved 500+ questions till now , wrote 1000+ lines of code in C++
 
