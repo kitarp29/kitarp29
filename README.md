@@ -1,5 +1,6 @@
  <h1>Hi, I'm Pratik 👋🏾 👩🏾‍💻</h1>
 I'm a Developer ,who is passionate about making Websites, creating technology to elevate people, and building community.<br>
+Former <b> Software Developer Engineer </b> at <a href="hackerrank.com"><b>Hackerrank</b></a>. Contributed in the Platforms Team.
 I was the  <b><a href="https://externship.github.in/organization/list"><u>Github Extern'21</u></a></b> at <a href="https://www.chaosnative.com/"><u>ChaosNative</u></a></b></b>. Worked on <a href="https://litmuschaos.io/"><u>Litmus Chaos</u></a></b> Project, learning to create chaos in cluster.
 <br><b>Former Site Realibilty Engineer Intern at <a href="juspay.in"><u>Juspay</u></a></b>. Working on different tools of DevOps like Prometheus, Grafana, ELK Stack, etc.
 <br>
