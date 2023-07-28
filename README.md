@@ -1,5 +1,5 @@
 <h1 align="center">  Pratik Singh </h1>
-<p align="center" style="font-size: 18.5px;"> <b>Senior Software Engineer</b> at <a href="nasdaq.com">Nasdaq</a> </p>
+<p align="center" style="font-size: 18.5px;"> <b>Senior Software Engineer</b> at <a href="nasdaq.com">NASDAQ</a> </p>
 <p align="center">
 Problem Solver ¯\_(ツ)_/¯ <br>आलस्यम् परमम् धर्म 🥱<br> <br>
   <img src="https://raw.githubusercontent.com/technicaldada/hackerpro/master/logo205x250.gif">
@@ -18,7 +18,7 @@ My expertise lies in **DevOps**, **Golang**, Backend Development, and C++. I hav
 
 ## Experience 💼
 
-1. ### Senior Software Developer at Nasdaq
+1. ### Senior Software Developer at NASDAQ
 🚀 Collaborating with the Web Properties team to build microservices in Go and actively maintaining CI pipelines on GitLab.
 
 2. #### CI/CD Engineer at Mercari, Inc.
